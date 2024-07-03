@@ -30,7 +30,7 @@ function App() {
       <Form></Form>
       <Form1></Form1>
       <Users></Users>
-      <Friends> </Friends>
+      <Friends></Friends>
     </>
   )
 }
